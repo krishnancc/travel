@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 ### `Create React App`
-Install command = npx create-react-app redux_project
+Install command = npx create-react-app trippy_project
 
 ### `Install Node Modules`
 Run the following command to install the necessary Node modules
